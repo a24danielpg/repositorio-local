@@ -1,0 +1,4 @@
+# Ignorar tódolos arquivos con algunha das seguintes extensións.
+.class
+.rom
+.xjtv
