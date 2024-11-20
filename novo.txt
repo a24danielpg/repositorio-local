@@ -1,1 +1,2 @@
-Novo arquivo .txt que lle fará compaña aos anteriores, non quere dicir nada, solo que se subirá.
+Vamos facer algún cambio para que se vexa no git diff
+E tamén queremos velo no difftool
